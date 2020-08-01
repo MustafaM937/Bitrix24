@@ -1,12 +1,19 @@
 package com.Bitrix.step_definitions;
 
+import com.Bitrix.pages.Bitrix_Main_Page;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
+
+
 public class UploadFiles_StepDefinitions {
+
+    Bitrix_Main_Page mainPageBTNs = new Bitrix_Main_Page();
+
     @When("user clicks on message drop down tab")
     public void user_clicks_on_message_drop_down_tab() {
         System.out.println("clicked on message drop down");
+
 
     }
 
