@@ -22,3 +22,5 @@ Feature: User should be able to click on upload files icon to upload files
     Given User is on the main page
     When clicks on the file upload button
     Then User should be able to click on link Select from bitrix24
+
+
