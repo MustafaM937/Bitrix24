@@ -32,11 +32,10 @@ public class AC2_Steps {
     @Then("Adds contacts from recent contact list option")
     public void adds_contacts_from_recent_contact_list_option() {
 
-      //  String AddWindow = Driver.getDriver().getWindowHandle();
-     //   Driver.getDriver().switchTo().window(AddWindow);
+
         ac2Page.RecentOption.click();
         action.doubleClick(ac2Page.Allemp).perform();
-        //ac2Page.Allemp.click();
+
     }
     @Then("Adds contacts from employee list option")
     public void adds_contacts_from_employee_list_option() {

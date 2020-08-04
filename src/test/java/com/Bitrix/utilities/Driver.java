@@ -4,6 +4,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
@@ -22,12 +23,20 @@ public class Driver {
             switch (browser) {
                 case "chrome":
                     WebDriverManager.chromedriver().setup();
-                    driver = new ChromeDriver();
+                    ChromeOptions options = new ChromeOptions();
+                    options.addArguments("--disable-notification");
+                    options.addArguments("use-fake-device-for-media-stream");
+                    options.addArguments("use-fake-ui-for-media-stream");
+                    driver = new ChromeDriver(options);
                     driver.manage().window().maximize();
                     break;
                 case "firefox":
                     WebDriverManager.firefoxdriver().setup();
                     driver = new FirefoxDriver();
+                    break;
+                case "Microsoft Edge":
+                    WebDriverManager.edgedriver().setup();
+                    driver = new EdgeDriver();
                     break;
                 case "chrome-headless":
                     WebDriverManager.chromedriver().setup();
