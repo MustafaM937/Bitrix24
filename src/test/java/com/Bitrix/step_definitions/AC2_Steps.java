@@ -15,11 +15,7 @@ public class AC2_Steps {
     Actions action = new Actions(Driver.getDriver());
     WebDriverWait wait = new WebDriverWait(Driver.getDriver(), 5);
 
-    @When("User clicks on the message feed area")
-    public void user_clicks_on_the_message_feed_area() {
-        wait.until(ExpectedConditions.elementToBeClickable(ac2Page.messageArea));
-        ac2Page.messageArea.click();
-    }
+
 
 
 

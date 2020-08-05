@@ -1,11 +1,16 @@
 package com.Bitrix.pages;
 
+import com.Bitrix.utilities.ConfigurationReader;
 import com.Bitrix.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import com.Bitrix.utilities.ConfigurationReader;
+
 public class AC2Page extends US1Page {
+
+
     public AC2Page(){
         PageFactory.initElements(Driver.getDriver(), this);
     }
@@ -21,7 +26,7 @@ public class AC2Page extends US1Page {
     @FindBy(linkText = "Employees and departments")
     public WebElement EmpDepOption;
 
-    @FindBy(linkText = "helpdesk59@cybertekschool.com")
+    @FindBy(linkText = "hr98@cybertekschool.com")
     public WebElement hlpDesk;
 
     @FindBy(linkText = "E-mail users")

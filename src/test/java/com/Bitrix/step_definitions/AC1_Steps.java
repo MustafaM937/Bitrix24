@@ -17,26 +17,14 @@ public class AC1_Steps {
     WebDriverWait wait = new WebDriverWait(Driver.getDriver(), 20);
     Actions action= new Actions(Driver.getDriver());
 
-    @Given("User is on the main page")
-    public void user_is_on_the_main_page() {
 
-        Driver.getDriver().get(ConfigurationReader.getProperty("BitrixURL"));
-        loginPage.UserNameBox.sendKeys(ConfigurationReader.getProperty("BitrixUser_HelpDesk"));
-        loginPage.PassBox.sendKeys("UserUser");
-
-        loginPage.LoginButton.click();
-
-
-
-    }
 
 
 
 
     @When("clicks on the file upload button")
     public void clicks_on_the_file_upload_button() {
-        wait.until(ExpectedConditions.elementToBeClickable(loginPage.messageArea));
-       loginPage.messageArea.click();
+
        wait.until(ExpectedConditions.elementToBeClickable(ac1Page.uploadButton));
        ac1Page.uploadButton.click();
     }
