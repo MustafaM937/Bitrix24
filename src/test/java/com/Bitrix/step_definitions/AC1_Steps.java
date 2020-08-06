@@ -11,29 +11,27 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.io.File;
+import java.util.Map;
+
 public class AC1_Steps {
     US1Page loginPage = new US1Page();
     AC1Page ac1Page = new AC1Page();
     WebDriverWait wait = new WebDriverWait(Driver.getDriver(), 20);
-    Actions action= new Actions(Driver.getDriver());
-
-
-
-
+    Actions action = new Actions(Driver.getDriver());
 
 
     @When("clicks on the file upload button")
     public void clicks_on_the_file_upload_button() {
-
-       wait.until(ExpectedConditions.elementToBeClickable(ac1Page.uploadButton));
-       ac1Page.uploadButton.click();
+        wait.until(ExpectedConditions.elementToBeClickable(ac1Page.uploadButton));
+        ac1Page.uploadButton.click();
     }
 
 
     @Then("User should be able to upload file")
     public void user_should_be_able_to_upload_file() {
 
-              ac1Page.UploadFileButton.click();
+        ac1Page.UploadFileButton.click();
 
     }
 
@@ -66,10 +64,10 @@ public class AC1_Steps {
     public void user_should_be_able_to_click_on_link_create_file_button_from_ms_office() {
         wait.until(ExpectedConditions.elementToBeClickable(ac1Page.MSOfficeLink));
         ac1Page.MSOfficeLink.click();
-       String popupWindow = Driver.getDriver().getWindowHandle();
-       Driver.getDriver().switchTo().window(popupWindow);
+        String popupWindow = Driver.getDriver().getWindowHandle();
+        Driver.getDriver().switchTo().window(popupWindow);
 
-       wait.until(ExpectedConditions.elementToBeClickable(ac1Page.MSOfficeOnline));
+        wait.until(ExpectedConditions.elementToBeClickable(ac1Page.MSOfficeOnline));
         action.moveToElement(ac1Page.MSOfficeLink).click().perform();
         wait.until(ExpectedConditions.elementToBeClickable(ac1Page.DocumentLink));
         ac1Page.DocumentLink.click();
@@ -87,6 +85,7 @@ public class AC1_Steps {
         wait.until(ExpectedConditions.elementToBeClickable(ac1Page.SpreadsheetLink));
         ac1Page.SpreadsheetLink.click();
     }
+
     @Then("User should be able to click on the PowerPoint creation link")
     public void user_should_be_able_to_click_on_the_power_point_creation_link() {
         wait.until(ExpectedConditions.elementToBeClickable(ac1Page.MSOfficeLink));
@@ -98,5 +97,17 @@ public class AC1_Steps {
         action.moveToElement(ac1Page.MSOfficeLink).click().perform();
         wait.until(ExpectedConditions.elementToBeClickable(ac1Page.PowePointLink));
         ac1Page.PowePointLink.click();
+    }
+
+    @Then("user uploads following file:")
+    public void userUploadsFollowingFile(Map<String, String> map) throws InterruptedException {
+        Thread.sleep(3000);
+        String filePath = System.getProperty("user.dir") + "/" + map.get("File path").replace("/", File.separator);
+        System.out.println("File path: " + filePath);
+        ac1Page.uploadFileAndImages.sendKeys(filePath);
+        Thread.sleep(2000);
+        ac1Page.sendButton.click();
+        Thread.sleep(2000);
+
     }
 }

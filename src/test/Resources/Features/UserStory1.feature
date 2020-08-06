@@ -21,7 +21,7 @@ Feature: Active Stream Messaging feature including, upload, download, add link
   @AC4
   Scenario: User should be able to insert videos by clicking on
   the video icon and entering the video URL.
-     And User clicks on the video Upload Button
+    And User clicks on the video Upload Button
     Then User should be able to insert video source link
     Then User should be able to save the video link
     Then User should be able to send the video link
@@ -80,7 +80,8 @@ Feature: Active Stream Messaging feature including, upload, download, add link
   @upload
   Scenario: User should be able to click on upload file
     When clicks on the file upload button
-    Then User should be able to upload file
+    Then user uploads following file:
+      | File path | src/test/Resources/test_data/upload.jpeg |
 
   @download
   Scenario: User should be able to download from external drive

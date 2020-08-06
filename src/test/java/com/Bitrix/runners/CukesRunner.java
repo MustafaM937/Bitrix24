@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         features = "src/test/Resources/Features",
         glue = "com/Bitrix/step_definitions",
         dryRun = false,
-       tags = "@AC3"
+        tags = "@upload"
 )
 public class CukesRunner {
 }
