@@ -101,17 +101,14 @@ public class AC1_Steps {
 
     @Then("user uploads following file:")
     public void userUploadsFollowingFile(Map<String, String> map) throws InterruptedException {
-        Thread.sleep(3000);
+        Thread.sleep(10000);
         String filePath = System.getProperty("user.dir") + "/" + map.get("File path").replace("/", File.separator);
         System.out.println("File path: " + filePath);
         ac1Page.uploadFileAndImages.sendKeys(filePath);
-        Thread.sleep(2000);
+        Thread.sleep(10000);
         ac1Page.sendButton.click();
-        Thread.sleep(2000);
+        Thread.sleep(10000);
 
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 1b5d4ab343d615f6bfede895cad386b0b1e683bf
+
