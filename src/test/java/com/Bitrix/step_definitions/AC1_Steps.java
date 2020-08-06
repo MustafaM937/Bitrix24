@@ -110,4 +110,8 @@ public class AC1_Steps {
         Thread.sleep(2000);
 
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1b5d4ab343d615f6bfede895cad386b0b1e683bf

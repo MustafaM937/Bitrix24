@@ -50,4 +50,8 @@ public class AC1Page extends US1Page {
 
     @FindBy(id = "blog-submit-button-save")
     public WebElement sendButton;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1b5d4ab343d615f6bfede895cad386b0b1e683bf
