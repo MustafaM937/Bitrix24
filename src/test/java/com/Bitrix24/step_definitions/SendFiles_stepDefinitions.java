@@ -1,14 +1,10 @@
-package com.Bitrix.step_definitions;
+package com.Bitrix24.step_definitions;
 
-import com.Bitrix.pages.PortalPage;
-import com.Bitrix.pages.loginPage;
-import com.Bitrix.utilities.ConfigurationReader;
-import com.Bitrix.utilities.Driver;
-import io.cucumber.java.en.And;
+import com.Bitrix24.pages.PortalPage;
+import com.Bitrix24.pages.loginPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.junit.Assert;
 
 public class SendFiles_stepDefinitions {
 

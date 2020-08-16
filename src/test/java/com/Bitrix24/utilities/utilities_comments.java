@@ -1,4 +1,4 @@
-package com.Bitrix.utilities;
+package com.Bitrix24.utilities;
 
 public class utilities_comments {
     /*

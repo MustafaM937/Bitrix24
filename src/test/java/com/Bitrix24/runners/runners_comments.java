@@ -1,4 +1,4 @@
-package com.Bitrix.runners;
+package com.Bitrix24.runners;
 
 public class runners_comments {
 

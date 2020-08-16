@@ -1,4 +1,4 @@
-package com.Bitrix.runners;
+package com.Bitrix24.runners;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
 
         },
         features = "src/test/resources/features",
-        glue = "com/Bitrix/step_definitions",
+        glue = "com/Bitrix24/step_definitions",
         dryRun = false,
         tags = ""
 )

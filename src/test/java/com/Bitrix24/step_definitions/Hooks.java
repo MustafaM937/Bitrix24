@@ -1,8 +1,8 @@
-package com.Bitrix.step_definitions;
+package com.Bitrix24.step_definitions;
 
-import com.Bitrix.pages.loginPage;
-import com.Bitrix.utilities.ConfigurationReader;
-import com.Bitrix.utilities.Driver;
+import com.Bitrix24.pages.loginPage;
+import com.Bitrix24.utilities.ConfigurationReader;
+import com.Bitrix24.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 

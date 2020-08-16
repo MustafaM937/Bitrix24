@@ -1,4 +1,4 @@
-package com.Bitrix.pages;
+package com.Bitrix24.pages;
 
 public class pages_comments {
     /*

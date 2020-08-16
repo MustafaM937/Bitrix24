@@ -1,6 +1,6 @@
-package com.Bitrix.pages;
+package com.Bitrix24.pages;
 
-import com.Bitrix.utilities.Driver;
+import com.Bitrix24.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
