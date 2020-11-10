@@ -1,0 +1,292 @@
+2020-08-23 14:55:15 INFO  Hooks:19 - ::: Starting automation :::
+2020-08-23 14:55:15 INFO  Hooks:20 - Browser type: chrome
+2020-08-23 14:55:15 INFO  Hooks:21 - URL: https://login2.nextbasecrm.com
+2020-08-23 14:55:15 INFO  Driver:36 - Browser :: chrome
+2020-08-23 14:55:16 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 14:55:16 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 14:55:20 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 14:55:20 INFO  Hooks:33 - ::: Ending automation :::
+2020-08-23 14:56:48 INFO  Hooks:19 - ::: Starting automation :::
+2020-08-23 14:56:48 INFO  Hooks:20 - Browser type: chrome
+2020-08-23 14:56:48 INFO  Hooks:21 - URL: https://login2.nextbasecrm.com
+2020-08-23 14:56:48 INFO  Driver:36 - Browser :: chrome
+2020-08-23 14:56:48 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 14:56:48 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 14:56:51 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 14:56:52 INFO  Hooks:33 - ::: Ending automation :::
+2020-08-23 14:58:57 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 14:58:57 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 14:58:57 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 14:58:57 INFO  Driver:36 - Browser :: chrome
+2020-08-23 14:58:58 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 14:58:58 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 14:59:01 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 14:59:01 INFO  Hooks:34 - ::: Ending automation :::
+2020-08-23 15:01:29 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 15:01:29 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 15:01:29 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 15:01:29 INFO  Driver:36 - Browser :: chrome
+2020-08-23 15:01:30 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 15:01:30 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 15:01:33 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 15:08:57 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 15:08:57 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 15:08:57 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 15:08:57 INFO  Driver:36 - Browser :: chrome
+2020-08-23 15:08:58 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 15:08:58 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 15:09:01 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 15:09:01 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 15:14:18 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 15:14:18 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 15:14:18 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 15:14:18 INFO  Driver:36 - Browser :: chrome
+2020-08-23 15:14:19 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 15:14:19 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 15:14:22 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 15:14:22 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 15:14:23 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 15:15:39 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 15:15:39 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 15:15:39 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 15:15:39 INFO  Driver:36 - Browser :: chrome
+2020-08-23 15:15:40 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 15:15:40 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 15:15:43 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 15:15:43 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 15:15:44 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 15:21:11 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 15:21:11 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 15:21:11 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 15:21:11 INFO  Driver:36 - Browser :: chrome
+2020-08-23 15:21:12 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 15:21:12 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 15:21:16 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 15:21:16 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 15:21:17 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 15:44:18 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 15:44:18 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 15:44:18 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 15:44:18 INFO  Driver:36 - Browser :: chrome
+2020-08-23 15:44:18 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 15:44:18 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 15:44:22 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 15:44:22 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 15:44:23 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 15:44:54 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 15:44:54 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 15:44:54 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 15:44:54 INFO  Driver:36 - Browser :: chrome
+2020-08-23 15:44:54 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 15:44:54 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 15:44:58 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 15:44:58 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 15:47:01 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 15:47:01 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 15:47:01 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 15:47:01 INFO  Driver:36 - Browser :: chrome
+2020-08-23 15:47:01 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 15:47:01 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 15:47:04 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 15:47:05 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 15:47:05 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 16:31:32 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 16:31:32 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 16:31:32 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 16:31:32 INFO  Driver:36 - Browser :: chrome
+2020-08-23 16:31:32 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 16:31:32 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 16:31:36 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 16:31:36 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 16:31:37 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 16:37:53 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 16:37:53 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 16:37:53 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 16:37:53 INFO  Driver:36 - Browser :: chrome
+2020-08-23 16:37:53 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 16:37:53 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 16:37:56 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 16:38:01 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 16:46:27 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 16:46:27 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 16:46:27 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 16:46:27 INFO  Driver:36 - Browser :: chrome
+2020-08-23 16:46:27 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 16:46:27 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 16:46:31 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 16:46:34 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 16:58:13 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 16:58:13 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 16:58:13 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 16:58:13 INFO  Driver:36 - Browser :: chrome
+2020-08-23 16:58:13 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 16:58:13 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 16:58:16 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 16:58:20 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 17:15:05 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 17:15:05 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 17:15:05 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 17:15:05 INFO  Driver:36 - Browser :: chrome
+2020-08-23 17:15:05 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 17:15:05 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 17:15:09 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 17:15:12 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 17:15:13 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 17:16:31 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 17:16:31 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 17:16:31 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 17:16:31 INFO  Driver:36 - Browser :: chrome
+2020-08-23 17:16:32 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 17:16:32 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 17:16:35 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 17:16:40 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 17:17:39 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 17:17:39 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 17:17:39 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 17:17:39 INFO  Driver:36 - Browser :: chrome
+2020-08-23 17:17:39 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 17:17:39 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 17:17:43 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 17:17:48 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 17:42:45 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 17:42:45 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 17:42:45 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 17:42:45 INFO  Driver:36 - Browser :: chrome
+2020-08-23 17:42:45 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 17:42:45 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 17:42:49 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 17:42:54 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 18:09:51 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 18:09:51 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 18:09:51 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 18:09:51 INFO  Driver:36 - Browser :: chrome
+2020-08-23 18:09:51 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 18:09:51 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 18:09:55 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 18:10:00 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 18:20:31 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 18:20:31 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 18:20:31 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 18:20:31 INFO  Driver:36 - Browser :: chrome
+2020-08-23 18:20:31 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 18:20:31 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 18:20:34 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 18:20:39 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 18:30:32 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 18:30:32 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 18:30:32 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 18:30:32 INFO  Driver:36 - Browser :: chrome
+2020-08-23 18:30:33 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 18:30:33 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 18:30:36 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 18:30:40 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 18:44:28 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 18:44:28 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 18:44:28 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 18:44:28 INFO  Driver:36 - Browser :: chrome
+2020-08-23 18:44:28 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 18:44:28 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 18:44:32 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 18:44:34 INFO  PortalPage:48 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-08-23 18:44:34 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 18:44:35 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 18:45:35 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 18:45:35 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 18:45:35 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 18:45:35 INFO  Driver:36 - Browser :: chrome
+2020-08-23 18:45:36 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 18:45:36 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 18:45:39 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 18:45:41 INFO  PortalPage:48 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-08-23 18:45:41 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 18:45:42 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 18:46:12 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 18:46:12 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 18:46:12 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 18:46:12 INFO  Driver:36 - Browser :: chrome
+2020-08-23 18:46:12 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 18:46:12 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 18:46:15 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 18:46:18 INFO  PortalPage:48 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-08-23 18:46:18 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 18:46:18 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 19:00:16 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 19:00:16 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 19:00:16 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 19:00:16 INFO  Driver:36 - Browser :: chrome
+2020-08-23 19:00:17 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 19:00:17 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 19:00:20 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 19:00:22 INFO  PortalPage:54 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-08-23 19:00:22 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 19:00:23 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 19:01:30 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 19:01:30 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 19:01:30 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 19:01:30 INFO  Driver:36 - Browser :: chrome
+2020-08-23 19:01:31 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 19:01:31 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 19:01:34 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 19:01:36 INFO  PortalPage:54 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-08-23 19:01:36 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 19:01:37 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 19:02:13 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 19:02:13 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 19:02:13 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 19:02:13 INFO  Driver:36 - Browser :: chrome
+2020-08-23 19:02:13 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 19:02:13 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 19:02:17 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 19:02:19 INFO  PortalPage:54 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-08-23 19:02:19 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 19:02:20 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 19:05:32 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 19:05:32 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 19:05:32 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 19:05:32 INFO  Driver:36 - Browser :: chrome
+2020-08-23 19:05:32 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 19:05:32 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 19:05:35 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 19:05:38 INFO  PortalPage:54 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-08-23 19:05:38 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 19:05:39 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-23 19:06:13 INFO  Hooks:20 - ::: Starting automation :::
+2020-08-23 19:06:13 INFO  Hooks:21 - Browser type: chrome
+2020-08-23 19:06:13 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-08-23 19:06:13 INFO  Driver:36 - Browser :: chrome
+2020-08-23 19:06:13 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-23 19:06:13 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-23 19:06:17 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-08-23 19:06:19 INFO  PortalPage:54 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-08-23 19:06:19 INFO  Hooks:30 - Taking a screenshot
+2020-08-23 19:06:20 INFO  Hooks:35 - ::: Ending automation :::
+2020-10-03 14:56:57 INFO  Hooks:20 - ::: Starting automation :::
+2020-10-03 14:56:57 INFO  Hooks:21 - Browser type: chrome
+2020-10-03 14:56:57 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-10-03 14:56:57 INFO  Driver:36 - Browser :: chrome
+2020-10-03 14:56:58 INFO  WebDriverManager:573 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-10-03 14:56:58 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/85.0.4183.87/chromedriver
+2020-10-03 14:57:02 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-10-03 14:57:04 INFO  PortalPage:54 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-10-03 14:57:04 INFO  Hooks:30 - Taking a screenshot
+2020-10-03 14:57:06 INFO  Hooks:35 - ::: Ending automation :::
+2020-10-03 15:00:41 INFO  Hooks:20 - ::: Starting automation :::
+2020-10-03 15:00:41 INFO  Hooks:21 - Browser type: chrome
+2020-10-03 15:00:41 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-10-03 15:00:41 INFO  Driver:36 - Browser :: chrome
+2020-10-03 15:00:42 INFO  WebDriverManager:573 - Using chromedriver 85.0.4183.87 (since Chrome 85 is installed in your machine)
+2020-10-03 15:00:42 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/85.0.4183.87/chromedriver
+2020-10-03 15:00:45 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-10-03 15:00:47 INFO  PortalPage:54 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-10-03 15:00:47 INFO  Hooks:30 - Taking a screenshot
+2020-10-03 15:00:49 INFO  Hooks:35 - ::: Ending automation :::
+2020-11-10 06:11:40 INFO  Hooks:20 - ::: Starting automation :::
+2020-11-10 06:11:40 INFO  Hooks:21 - Browser type: chrome
+2020-11-10 06:11:40 INFO  Hooks:22 - URL: https://login2.nextbasecrm.com
+2020-11-10 06:11:40 INFO  Driver:37 - Browser :: chrome
+2020-11-10 06:11:42 INFO  WebDriverManager:573 - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-11-10 06:11:42 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/hp/.m2/repository/webdriver/chromedriver/mac64/86.0.4240.22/chromedriver
+2020-11-10 06:11:46 INFO  loginPage:24 - Login with marketing47@cybertekschool.com username and UserUser password
+2020-11-10 06:11:49 INFO  PortalPage:54 - File path: /Users/hp/IdeaProjects/Bitrix24/File Path
+2020-11-10 06:11:49 INFO  Hooks:30 - Taking a screenshot
+2020-11-10 06:11:50 INFO  Hooks:35 - ::: Ending automation :::
